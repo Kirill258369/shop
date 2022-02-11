@@ -32,7 +32,7 @@
     "magnific-popup": "^1.1.0",
     "moment": "^2.27.0",
     "nestable2": "^1.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "noty": "^3.2.0-beta",
     "popper": "^1.0.1",
     "postcss-loader": "^3.0.0",
